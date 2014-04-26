@@ -1,0 +1,30 @@
+1398181700129,0,Prompt,menu1,item2,control
+1398181701867,0,Menu Click,menu1,control
+1398181703439,0,Item Click,menu1,item2,control
+1398181703441,1,Prompt,menu2,item11,control
+1398181705426,1,Menu Click,menu1,control
+1398181706604,1,Menu Click,menu2,control
+1398181710137,1,Item Click,menu2,item11,control
+1398181710139,2,Prompt,menu3,item1,control
+1398181711940,2,Menu Click,menu1,control
+1398181715400,2,Menu Click,menu3,control
+1398181717974,2,Item Click,menu3,item1,control
+1398181717976,3,Prompt,menu2,item1,control
+1398181720098,3,Menu Click,menu2,control
+1398181722776,4,Prompt,menu3,item0,control
+1398181722775,3,Item Click,menu2,item1,control
+1398181725539,4,Menu Click,menu3,control
+1398181728549,5,Prompt,menu3,item0,control
+1398181728548,4,Item Click,menu3,item0,control
+1398181730831,5,Menu Click,menu3,control
+1398181732216,5,Item Click,menu3,item0,control
+1398181732217,6,Prompt,menu3,item7,control
+1398181735054,6,Menu Click,menu3,control
+1398181740259,6,Item Click,menu3,item7,control
+1398181740261,7,Prompt,menu2,item1,control
+1398181741727,7,Menu Click,menu2,control
+1398181743216,7,Item Click,menu2,item1,control
+1398181743217,8,Prompt,menu1,item2,control
+1398181744427,8,Menu Click,menu1,control
+1398181745691,8,Item Click,menu1,item2,control
+1398181745692,9,Prompt,menu3,item1,control

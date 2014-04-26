@@ -1,0 +1,4 @@
+Shannon,female
+easy,struggle,frequency,distinctive,helpful,distract,prefer
+neutral,agree,strongly_agree
+agree_some,neutral,strongly_agree,agree,neutral,agree_some,static

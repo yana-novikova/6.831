@@ -1,0 +1,1 @@
+agree_some,neutral,agree_some,agree_some,agree_some,disagree_some,adaptive

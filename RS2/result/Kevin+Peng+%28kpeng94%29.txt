@@ -1,0 +1,2 @@
+easy,struggle,frequency,distinctive,helpful,distract,prefer
+disagree_some,disagree_some,neutral

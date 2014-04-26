@@ -1,0 +1,4 @@
+Harihar,male
+easy,struggle,frequency,distinctive,helpful,distract,prefer
+agree_some,strongly_agree,agree_some
+strongly_agree,agree,agree_some,strongly_agree,strongly_agree,strongly_agree,adaptive

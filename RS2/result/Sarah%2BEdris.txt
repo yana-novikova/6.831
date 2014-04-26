@@ -1,0 +1,1 @@
+agree,neutral,strongly_agree,strongly_agree,agree,agree,static

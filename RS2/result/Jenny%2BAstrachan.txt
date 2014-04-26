@@ -1,0 +1,2 @@
+strongly_agree,strongly_agree,strongly_agree,strongly_agree,strongly_agree,disagree,adaptive
+strongly_agree,strongly_agree,strongly_agree,strongly_agree,strongly_agree,disagree,adaptive

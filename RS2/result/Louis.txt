@@ -1,0 +1,4 @@
+Louis,male
+easy,struggle,frequency,distinctive,helpful,distract,prefer
+agree,agree_some,strongly_agree
+strongly_agree,strongly_agree,strongly_agree,agree_some,agree,agree_some,adaptive

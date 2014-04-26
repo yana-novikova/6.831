@@ -1,0 +1,380 @@
+1398294452079,0,Prompt,menu2,item7,ephemeral
+1398294454688,0,Menu Click,menu2,ephemeral
+1398294455741,1,Prompt,menu2,item10,ephemeral
+1398294455739,0,Item Click,menu2,item7,ephemeral
+1398294457248,1,Menu Click,menu2,ephemeral
+1398294458253,2,Prompt,menu2,item1,ephemeral
+1398294458252,1,Item Click,menu2,item10,ephemeral
+1398294460122,2,Menu Click,menu2,ephemeral
+1398294461143,2,Item Click,menu2,item1,ephemeral
+1398294461144,3,Prompt,menu1,item10,ephemeral
+1398294462718,3,Menu Click,menu1,ephemeral
+1398294463944,3,Item Click,menu1,item10,ephemeral
+1398294463945,4,Prompt,menu3,item14,ephemeral
+1398294466173,4,Menu Click,menu3,ephemeral
+1398294467294,4,Item Click,menu3,item14,ephemeral
+1398294467295,5,Prompt,menu3,item7,ephemeral
+1398294468872,5,Menu Click,menu3,ephemeral
+1398294469922,5,Item Click,menu3,item7,ephemeral
+1398294469923,6,Prompt,menu1,item6,ephemeral
+1398294471093,6,Menu Click,menu1,ephemeral
+1398294472442,7,Prompt,menu1,item3,ephemeral
+1398294472440,6,Item Click,menu1,item6,ephemeral
+1398294474485,7,Menu Click,menu1,ephemeral
+1398294475524,8,Prompt,menu3,item9,ephemeral
+1398294475522,7,Item Click,menu1,item3,ephemeral
+1398294476987,8,Menu Click,menu3,ephemeral
+1398294478055,9,Prompt,menu1,item0,ephemeral
+1398294478054,8,Item Click,menu3,item9,ephemeral
+1398294479176,9,Menu Click,menu1,ephemeral
+1398294481017,10,Prompt,menu2,item6,ephemeral
+1398294481016,9,Item Click,menu1,item0,ephemeral
+1398294482099,10,Menu Click,menu2,ephemeral
+1398294483247,11,Prompt,menu1,item6,ephemeral
+1398294483245,10,Item Click,menu2,item6,ephemeral
+1398294484457,11,Menu Click,menu1,ephemeral
+1398294484624,11,Menu Click,menu1,ephemeral
+1398294485517,11,Menu Click,menu1,ephemeral
+1398294486424,11,Item Click,menu1,item6,ephemeral
+1398294486426,12,Prompt,menu1,item7,ephemeral
+1398294488621,12,Menu Click,menu1,ephemeral
+1398294489649,13,Prompt,menu2,item1,ephemeral
+1398294489648,12,Item Click,menu1,item7,ephemeral
+1398294491239,13,Menu Click,menu2,ephemeral
+1398294492538,13,Item Click,menu2,item1,ephemeral
+1398294492540,14,Prompt,menu3,item7,ephemeral
+1398294493547,14,Menu Click,menu3,ephemeral
+1398294494955,14,Item Click,menu3,item7,ephemeral
+1398294494956,15,Prompt,menu3,item3,ephemeral
+1398294496576,15,Menu Click,menu3,ephemeral
+1398294497581,15,Item Click,menu3,item3,ephemeral
+1398294497583,16,Prompt,menu3,item3,ephemeral
+1398294499029,16,Menu Click,menu3,ephemeral
+1398294499763,17,Prompt,menu1,item0,ephemeral
+1398294499762,16,Item Click,menu3,item3,ephemeral
+1398294502187,17,Menu Click,menu1,ephemeral
+1398294502953,17,Item Click,menu1,item0,ephemeral
+1398294502955,18,Prompt,menu2,item1,ephemeral
+1398294503874,18,Menu Click,menu2,ephemeral
+1398294504657,19,Prompt,menu1,item3,ephemeral
+1398294504655,18,Item Click,menu2,item1,ephemeral
+1398294506127,19,Menu Click,menu1,ephemeral
+1398294507139,19,Item Click,menu1,item3,ephemeral
+1398294507141,20,Prompt,menu2,item1,ephemeral
+1398294508945,20,Menu Click,menu2,ephemeral
+1398294509639,20,Item Click,menu2,item1,ephemeral
+1398294509641,21,Prompt,menu1,item0,ephemeral
+1398294510758,21,Menu Click,menu1,ephemeral
+1398294511914,22,Prompt,menu1,item6,ephemeral
+1398294511913,21,Item Click,menu1,item0,ephemeral
+1398294514044,22,Menu Click,menu1,ephemeral
+1398294514983,23,Prompt,menu1,item0,ephemeral
+1398294514982,22,Item Click,menu1,item6,ephemeral
+1398294516137,23,Menu Click,menu1,ephemeral
+1398294516817,24,Prompt,menu3,item6,ephemeral
+1398294516815,23,Item Click,menu1,item0,ephemeral
+1398294518317,24,Menu Click,menu3,ephemeral
+1398294519527,24,Item Click,menu3,item6,ephemeral
+1398294519528,25,Prompt,menu3,item1,ephemeral
+1398294521746,25,Menu Click,menu3,ephemeral
+1398294522742,26,Prompt,menu3,item7,ephemeral
+1398294522741,25,Item Click,menu3,item1,ephemeral
+1398294524880,26,Menu Click,menu3,ephemeral
+1398294526070,27,Prompt,menu1,item11,ephemeral
+1398294526069,26,Item Click,menu3,item7,ephemeral
+1398294527650,27,Menu Click,menu1,ephemeral
+1398294529872,27,Item Click,menu1,item11,ephemeral
+1398294529874,28,Prompt,menu2,item4,ephemeral
+1398294531005,28,Menu Click,menu2,ephemeral
+1398294532900,29,Prompt,menu1,item1,ephemeral
+1398294532899,28,Item Click,menu2,item4,ephemeral
+1398294534481,29,Menu Click,menu1,ephemeral
+1398294535591,29,Item Click,menu1,item1,ephemeral
+1398294535592,30,Prompt,menu2,item5,ephemeral
+1398294536688,30,Menu Click,menu2,ephemeral
+1398294537749,31,Prompt,menu2,item7,ephemeral
+1398294537747,30,Item Click,menu2,item5,ephemeral
+1398294538844,31,Menu Click,menu2,ephemeral
+1398294539699,31,Item Click,menu2,item7,ephemeral
+1398294539700,32,Prompt,menu3,item7,ephemeral
+1398294540980,32,Menu Click,menu3,ephemeral
+1398294542237,33,Prompt,menu3,item0,ephemeral
+1398294542236,32,Item Click,menu3,item7,ephemeral
+1398294544258,33,Menu Click,menu3,ephemeral
+1398294545613,34,Prompt,menu3,item1,ephemeral
+1398294545611,33,Item Click,menu3,item0,ephemeral
+1398294546843,34,Menu Click,menu3,ephemeral
+1398294547529,34,Item Click,menu3,item1,ephemeral
+1398294547530,35,Prompt,menu2,item1,ephemeral
+1398294548944,35,Menu Click,menu2,ephemeral
+1398294549938,35,Item Click,menu2,item1,ephemeral
+1398294549939,36,Prompt,menu1,item11,ephemeral
+1398294551578,36,Menu Click,menu1,ephemeral
+1398294552900,36,Item Click,menu1,item11,ephemeral
+1398294552901,37,Prompt,menu1,item0,ephemeral
+1398294554282,37,Menu Click,menu1,ephemeral
+1398294554968,37,Item Click,menu1,item0,ephemeral
+1398294554970,38,Prompt,menu3,item9,ephemeral
+1398294556806,38,Menu Click,menu3,ephemeral
+1398294557780,39,Prompt,menu3,item6,ephemeral
+1398294557778,38,Item Click,menu3,item9,ephemeral
+1398294558772,39,Menu Click,menu3,ephemeral
+1398294559918,39,Item Click,menu3,item6,ephemeral
+1398294559920,40,Prompt,menu2,item5,ephemeral
+1398294561614,40,Menu Click,menu2,ephemeral
+1398294562642,40,Item Click,menu2,item5,ephemeral
+1398294562644,41,Prompt,menu2,item14,ephemeral
+1398294564359,41,Menu Click,menu2,ephemeral
+1398294565812,42,Prompt,menu1,item4,ephemeral
+1398294565811,41,Item Click,menu2,item14,ephemeral
+1398294566830,42,Menu Click,menu1,ephemeral
+1398294567970,43,Prompt,menu2,item15,ephemeral
+1398294567968,42,Item Click,menu1,item4,ephemeral
+1398294569726,43,Menu Click,menu2,ephemeral
+1398294571415,44,Prompt,menu3,item1,ephemeral
+1398294571413,43,Item Click,menu2,item15,ephemeral
+1398294572456,44,Menu Click,menu3,ephemeral
+1398294573292,44,Item Click,menu3,item1,ephemeral
+1398294573293,45,Prompt,menu2,item3,ephemeral
+1398294574622,45,Menu Click,menu2,ephemeral
+1398294575810,46,Prompt,menu1,item4,ephemeral
+1398294575808,45,Item Click,menu2,item3,ephemeral
+1398294577041,46,Menu Click,menu1,ephemeral
+1398294578261,47,Prompt,menu2,item5,ephemeral
+1398294578260,46,Item Click,menu1,item4,ephemeral
+1398294579365,47,Menu Click,menu2,ephemeral
+1398294580830,47,Item Click,menu2,item5,ephemeral
+1398294580831,48,Prompt,menu1,item7,ephemeral
+1398294582605,48,Menu Click,menu1,ephemeral
+1398294583757,48,Item Click,menu1,item7,ephemeral
+1398294583759,49,Prompt,menu2,item1,ephemeral
+1398294585620,49,Menu Click,menu2,ephemeral
+1398294586616,49,Item Click,menu2,item1,ephemeral
+1398294586617,50,Prompt,menu1,item4,ephemeral
+1398294587539,50,Menu Click,menu1,ephemeral
+1398294588875,51,Prompt,menu1,item9,ephemeral
+1398294588874,50,Item Click,menu1,item4,ephemeral
+1398294591821,51,Menu Click,menu1,ephemeral
+1398294593118,51,Item Click,menu1,item9,ephemeral
+1398294593119,52,Prompt,menu3,item9,ephemeral
+1398294594247,52,Menu Click,menu3,ephemeral
+1398294595739,53,Prompt,menu1,item9,ephemeral
+1398294595738,52,Item Click,menu3,item9,ephemeral
+1398294596987,53,Menu Click,menu1,ephemeral
+1398294597880,53,Item Click,menu1,item9,ephemeral
+1398294597881,54,Prompt,menu2,item3,ephemeral
+1398294599663,54,Menu Click,menu2,ephemeral
+1398294600689,54,Item Click,menu2,item3,ephemeral
+1398294600690,55,Prompt,menu1,item1,ephemeral
+1398294601844,55,Menu Click,menu1,ephemeral
+1398294603161,56,Prompt,menu3,item14,ephemeral
+1398294603159,55,Item Click,menu1,item1,ephemeral
+1398294604569,56,Menu Click,menu3,ephemeral
+1398294606066,57,Prompt,menu2,item9,ephemeral
+1398294606065,56,Item Click,menu3,item14,ephemeral
+1398294607411,57,Menu Click,menu2,ephemeral
+1398294609133,58,Prompt,menu2,item1,ephemeral
+1398294609131,57,Item Click,menu2,item9,ephemeral
+1398294610212,58,Menu Click,menu2,ephemeral
+1398294611233,58,Item Click,menu2,item1,ephemeral
+1398294611235,59,Prompt,menu3,item14,ephemeral
+1398294612530,59,Menu Click,menu3,ephemeral
+1398294614068,60,Prompt,menu2,item5,ephemeral
+1398294614067,59,Item Click,menu3,item14,ephemeral
+1398294615166,60,Menu Click,menu2,ephemeral
+1398294616067,61,Prompt,menu1,item11,ephemeral
+1398294616066,60,Item Click,menu2,item5,ephemeral
+1398294617180,61,Menu Click,menu1,ephemeral
+1398294618297,61,Item Click,menu1,item11,ephemeral
+1398294618298,62,Prompt,menu2,item5,ephemeral
+1398294619690,62,Menu Click,menu2,ephemeral
+1398294620637,62,Item Click,menu2,item5,ephemeral
+1398294620638,63,Prompt,menu1,item0,ephemeral
+1398294622332,63,Menu Click,menu1,ephemeral
+1398294623092,64,Prompt,menu2,item5,ephemeral
+1398294623091,63,Item Click,menu1,item0,ephemeral
+1398294624610,64,Menu Click,menu2,ephemeral
+1398294625639,64,Item Click,menu2,item5,ephemeral
+1398294625641,65,Prompt,menu3,item10,ephemeral
+1398294627214,65,Menu Click,menu3,ephemeral
+1398294628537,65,Item Click,menu3,item10,ephemeral
+1398294628538,66,Prompt,menu1,item0,ephemeral
+1398294629772,66,Menu Click,menu1,ephemeral
+1398294630570,67,Prompt,menu1,item1,ephemeral
+1398294630569,66,Item Click,menu1,item0,ephemeral
+1398294632066,67,Menu Click,menu1,ephemeral
+1398294633180,67,Item Click,menu1,item1,ephemeral
+1398294633182,68,Prompt,menu2,item1,ephemeral
+1398294634208,68,Menu Click,menu2,ephemeral
+1398294634929,69,Prompt,menu2,item5,ephemeral
+1398294634927,68,Item Click,menu2,item1,ephemeral
+1398294636566,69,Menu Click,menu1,ephemeral
+1398294639752,69,Menu Click,menu2,ephemeral
+1398294640882,69,Item Click,menu2,item5,ephemeral
+1398294640883,70,Prompt,menu1,item3,ephemeral
+1398294643463,70,Item Click,menu1,item3,ephemeral
+1398294643464,71,Prompt,menu3,item0,ephemeral
+1398294644776,71,Menu Click,menu3,ephemeral
+1398294645591,71,Item Click,menu3,item0,ephemeral
+1398294645592,72,Prompt,menu2,item9,ephemeral
+1398294647189,72,Menu Click,menu2,ephemeral
+1398294648562,73,Prompt,menu3,item5,ephemeral
+1398294648561,72,Item Click,menu2,item9,ephemeral
+1398294650264,73,Menu Click,menu3,ephemeral
+1398294651382,73,Item Click,menu3,item5,ephemeral
+1398294651384,74,Prompt,menu2,item14,ephemeral
+1398294652717,74,Menu Click,menu2,ephemeral
+1398294653962,75,Prompt,menu2,item3,ephemeral
+1398294653960,74,Item Click,menu2,item14,ephemeral
+1398294655362,75,Menu Click,menu2,ephemeral
+1398294656846,76,Prompt,menu2,item1,ephemeral
+1398294656844,75,Item Click,menu2,item3,ephemeral
+1398294658508,76,Menu Click,menu2,ephemeral
+1398294660244,76,Item Click,menu2,item1,ephemeral
+1398294660246,77,Prompt,menu2,item1,ephemeral
+1398294661367,77,Menu Click,menu2,ephemeral
+1398294662070,78,Prompt,menu2,item3,ephemeral
+1398294662069,77,Item Click,menu2,item1,ephemeral
+1398294663160,78,Menu Click,menu2,ephemeral
+1398294664212,79,Prompt,menu1,item0,ephemeral
+1398294664210,78,Item Click,menu2,item3,ephemeral
+1398294665223,79,Menu Click,menu1,ephemeral
+1398294665837,80,Prompt,menu2,item1,ephemeral
+1398294665836,79,Item Click,menu1,item0,ephemeral
+1398294666744,80,Menu Click,menu2,ephemeral
+1398294667444,80,Item Click,menu2,item1,ephemeral
+1398294667445,81,Prompt,menu2,item7,ephemeral
+1398294668942,81,Menu Click,menu2,ephemeral
+1398294670064,82,Prompt,menu1,item1,ephemeral
+1398294670063,81,Item Click,menu2,item7,ephemeral
+1398294671284,82,Menu Click,menu1,ephemeral
+1398294672071,83,Prompt,menu2,item1,ephemeral
+1398294672070,82,Item Click,menu1,item1,ephemeral
+1398294673184,83,Menu Click,menu2,ephemeral
+1398294674983,83,Item Click,menu2,item1,ephemeral
+1398294674984,84,Prompt,menu2,item1,ephemeral
+1398294675949,84,Menu Click,menu2,ephemeral
+1398294676803,85,Prompt,menu3,item0,ephemeral
+1398294676802,84,Item Click,menu2,item1,ephemeral
+1398294678497,85,Menu Click,menu3,ephemeral
+1398294679796,85,Item Click,menu3,item0,ephemeral
+1398294679797,86,Prompt,menu2,item6,ephemeral
+1398294680941,86,Menu Click,menu2,ephemeral
+1398294681893,87,Prompt,menu1,item6,ephemeral
+1398294681892,86,Item Click,menu2,item6,ephemeral
+1398294682909,87,Menu Click,menu1,ephemeral
+1398294683859,88,Prompt,menu2,item1,ephemeral
+1398294683857,87,Item Click,menu1,item6,ephemeral
+1398294684971,88,Menu Click,menu2,ephemeral
+1398294685690,88,Item Click,menu2,item1,ephemeral
+1398294685691,89,Prompt,menu3,item1,ephemeral
+1398294687242,89,Menu Click,menu3,ephemeral
+1398294687943,90,Prompt,menu3,item6,ephemeral
+1398294687941,89,Item Click,menu3,item1,ephemeral
+1398294689979,90,Menu Click,menu3,ephemeral
+1398294690921,91,Prompt,menu2,item6,ephemeral
+1398294690919,90,Item Click,menu3,item6,ephemeral
+1398294692493,91,Menu Click,menu2,ephemeral
+1398294693555,92,Prompt,menu2,item3,ephemeral
+1398294693554,91,Item Click,menu2,item6,ephemeral
+1398294696027,92,Menu Click,menu2,ephemeral
+1398294697723,92,Item Click,menu2,item3,ephemeral
+1398294697724,93,Prompt,menu1,item0,ephemeral
+1398294698828,93,Menu Click,menu1,ephemeral
+1398294699840,94,Prompt,menu1,item4,ephemeral
+1398294699839,93,Item Click,menu1,item0,ephemeral
+1398294701225,94,Menu Click,menu1,ephemeral
+1398294702271,95,Prompt,menu2,item6,ephemeral
+1398294702270,94,Item Click,menu1,item4,ephemeral
+1398294705904,95,Menu Click,menu2,ephemeral
+1398294707007,96,Prompt,menu1,item15,ephemeral
+1398294707006,95,Item Click,menu2,item6,ephemeral
+1398294708381,96,Menu Click,menu1,ephemeral
+1398294709625,97,Prompt,menu3,item3,ephemeral
+1398294709623,96,Item Click,menu1,item15,ephemeral
+1398294711105,97,Menu Click,menu3,ephemeral
+1398294712004,98,Prompt,menu1,item0,ephemeral
+1398294712003,97,Item Click,menu3,item3,ephemeral
+1398294712975,98,Menu Click,menu1,ephemeral
+1398294713643,98,Item Click,menu1,item0,ephemeral
+1398294713646,99,Prompt,menu3,item3,ephemeral
+1398294714960,99,Menu Click,menu3,ephemeral
+1398294715855,99,Item Click,menu3,item3,ephemeral
+1398294715856,100,Prompt,menu1,item0,ephemeral
+1398294716770,100,Menu Click,menu1,ephemeral
+1398294717536,101,Prompt,menu3,item7,ephemeral
+1398294717534,100,Item Click,menu1,item0,ephemeral
+1398294718856,101,Menu Click,menu3,ephemeral
+1398294719902,102,Prompt,menu2,item1,ephemeral
+1398294719901,101,Item Click,menu3,item7,ephemeral
+1398294720952,102,Menu Click,menu2,ephemeral
+1398294721935,102,Item Click,menu2,item1,ephemeral
+1398294721936,103,Prompt,menu1,item6,ephemeral
+1398294723152,103,Menu Click,menu1,ephemeral
+1398294724340,104,Prompt,menu1,item6,ephemeral
+1398294724339,103,Item Click,menu1,item6,ephemeral
+1398294725836,104,Menu Click,menu1,ephemeral
+1398294726666,105,Prompt,menu2,item3,ephemeral
+1398294726665,104,Item Click,menu1,item6,ephemeral
+1398294727612,105,Menu Click,menu2,ephemeral
+1398294728531,105,Item Click,menu2,item3,ephemeral
+1398294728532,106,Prompt,menu3,item7,ephemeral
+1398294729693,106,Menu Click,menu3,ephemeral
+1398294730625,106,Item Click,menu3,item7,ephemeral
+1398294730626,107,Prompt,menu2,item3,ephemeral
+1398294731699,107,Menu Click,menu1,ephemeral
+1398294732724,107,Menu Click,menu2,ephemeral
+1398294733914,108,Prompt,menu1,item15,ephemeral
+1398294733913,107,Item Click,menu2,item3,ephemeral
+1398294737180,109,Prompt,menu2,item1,ephemeral
+1398294737178,108,Item Click,menu1,item15,ephemeral
+1398294738188,109,Menu Click,menu2,ephemeral
+1398294738940,110,Prompt,menu2,item1,ephemeral
+1398294738938,109,Item Click,menu2,item1,ephemeral
+1398294740316,110,Menu Click,menu2,ephemeral
+1398294740964,111,Prompt,menu3,item6,ephemeral
+1398294740963,110,Item Click,menu2,item1,ephemeral
+1398294742332,111,Menu Click,menu3,ephemeral
+1398294743256,112,Prompt,menu3,item0,ephemeral
+1398294743254,111,Item Click,menu3,item6,ephemeral
+1398294745031,112,Menu Click,menu3,ephemeral
+1398294745662,113,Prompt,menu2,item1,ephemeral
+1398294745661,112,Item Click,menu3,item0,ephemeral
+1398294747078,113,Menu Click,menu2,ephemeral
+1398294747866,114,Prompt,menu1,item15,ephemeral
+1398294747865,113,Item Click,menu2,item1,ephemeral
+1398294748891,114,Menu Click,menu1,ephemeral
+1398294749892,115,Prompt,menu2,item3,ephemeral
+1398294749890,114,Item Click,menu1,item15,ephemeral
+1398294751028,115,Menu Click,menu2,ephemeral
+1398294751946,116,Prompt,menu1,item6,ephemeral
+1398294751945,115,Item Click,menu2,item3,ephemeral
+1398294752939,116,Menu Click,menu1,ephemeral
+1398294753950,116,Item Click,menu1,item6,ephemeral
+1398294753951,117,Prompt,menu1,item10,ephemeral
+1398294755288,117,Menu Click,menu1,ephemeral
+1398294756478,118,Prompt,menu2,item10,ephemeral
+1398294756477,117,Item Click,menu1,item10,ephemeral
+1398294757870,118,Menu Click,menu2,ephemeral
+1398294759241,119,Prompt,menu1,item14,ephemeral
+1398294759240,118,Item Click,menu2,item10,ephemeral
+1398294760361,119,Menu Click,menu1,ephemeral
+1398294761869,120,Prompt,menu1,item3,ephemeral
+1398294761868,119,Item Click,menu1,item14,ephemeral
+1398294762949,120,Menu Click,menu1,ephemeral
+1398294764001,121,Prompt,menu2,item5,ephemeral
+1398294764000,120,Item Click,menu1,item3,ephemeral
+1398294765426,121,Menu Click,menu2,ephemeral
+1398294766342,121,Item Click,menu2,item5,ephemeral
+1398294766343,122,Prompt,menu2,item1,ephemeral
+1398294768191,122,Menu Click,menu2,ephemeral
+1398294769066,122,Item Click,menu2,item1,ephemeral
+1398294769068,123,Prompt,menu2,item1,ephemeral
+1398294769863,123,Menu Click,menu2,ephemeral
+1398294770687,123,Item Click,menu2,item1,ephemeral
+1398294770688,124,Prompt,menu3,item1,ephemeral
+1398294772294,124,Menu Click,menu3,ephemeral
+1398294773118,125,Prompt,menu2,item1,ephemeral
+1398294773116,124,Item Click,menu3,item1,ephemeral
+1398294774071,125,Menu Click,menu2,ephemeral
+1398294775536,125,Item Click,menu2,item1,ephemeral

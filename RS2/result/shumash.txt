@@ -1,0 +1,4 @@
+shumash,female
+easy,struggle,frequency,distinctive,helpful,distract,prefer
+agree_some,agree_some,agree
+strongly_agree,agree,agree,agree,agree,disagree,adaptive

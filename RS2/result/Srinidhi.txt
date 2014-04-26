@@ -1,0 +1,4 @@
+Srinidhi,female
+easy,struggle,frequency,distinctive,helpful,distract,prefer
+strongly_agree,strongly_agree,disagree_some
+agree,agree_some,disagree_some,strongly_agree,agree_some,strongly_agree,static

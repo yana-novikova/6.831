@@ -1,0 +1,4 @@
+treyz,female
+easy,struggle,frequency,distinctive,helpful,distract,prefer
+agree,agree,strongly_agree
+agree,agree,strongly_agree,strongly_agree,agree_some,disagree_some,static

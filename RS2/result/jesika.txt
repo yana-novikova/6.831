@@ -1,0 +1,4 @@
+jesika,female
+easy,struggle,frequency,distinctive,helpful,distract,prefer
+disagree,strongly_agree,disagree_some
+neutral,disagree,disagree_some,strongly_agree,disagree_some,agree_some,static
